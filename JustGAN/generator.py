@@ -63,7 +63,6 @@ def ResBlock(x, training, filters=32, kernel_size=3, strides=1):
 
 	return x + conv2_norm
 
-
 def generator(x, training):
 	with tf.variable_scope('g_weights', reuse=tf.AUTO_REUSE):
 		# input_layer = tf.reshape(x, [-1, 28, 28, 1])
@@ -92,9 +91,9 @@ def generator(x, training):
 						padding="same",
 						activation=None)
 
-		# out = tf.contrib.layers.instance_norm(out)
+		out = tf.contrib.layers.instance_norm(out)
 
-		return tf.nn.tanh(out)
+		return tf.nn.tanh(out),out
 
 
 
