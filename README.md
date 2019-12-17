@@ -1,4 +1,4 @@
-# SCI-6338
+# PhantomGAN
 
 Generating Adversarial Examples with Adversarial Networks: https://arxiv.org/abs/1801.02610
 
