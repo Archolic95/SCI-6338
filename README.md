@@ -1,6 +1,6 @@
 # SCI-6338
 
-Generating Adversarial Examples with Adversarial Networks: https://arxiv.org/abs/1801.02610
+Generating Adversarial Examples with Adversarial Networks: https://arxiv.org/abs/1801.02610\n
 Implementation of AdvGAN on MINST and Cifar10: https://github.com/ctargon/AdvGAN-tf
 Unity VFX with RealSense:https://github.com/keijiro/Rsvfx
 
