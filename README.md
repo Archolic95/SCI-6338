@@ -15,4 +15,4 @@ Unity VFX with RealSense:https://github.com/keijiro/Rsvfx
 
 3.Run with Rhino 6 Grasshopper to read cvs files and generate obj files
 
-#4. 3D Print your Fashionable Mask!
+4. 3D Print your Fashionable Mask!
