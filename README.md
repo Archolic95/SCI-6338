@@ -9,7 +9,7 @@ Youtube: https://www.youtube.com/watch?v=McXp6J8TT30&t=2s
 
 3.Run with Rhino 6 Grasshopper to read cvs files and generate obj files
 
-4. 3D Print your Fashionable Mask!
+4.3D Print your Fashionable Mask!
 
 # References
 Generating Adversarial Examples with Adversarial Networks: https://arxiv.org/abs/1801.02610
